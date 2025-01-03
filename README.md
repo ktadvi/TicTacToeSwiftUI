@@ -71,7 +71,7 @@
 
 <h2>✨ Author</h2>
 <p><strong>Khushbu Tadvi</strong><br>
-Connect with me on <a href="https://www.linkedin.com/ktadvi">LinkedIn</a>.</p>
+Connect with me on <a href="https://www.linkedin.com/in/ktadvi">LinkedIn</a>.</p>
 
 </body>
 </html>
